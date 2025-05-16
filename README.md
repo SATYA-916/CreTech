@@ -1,78 +1,66 @@
-🌟 CreTech Internship Projects
-Welcome to the SATYA-916/CreTech repository!
-This repo contains all my Java internship projects, learning progress, and documentation as a Java Intern at CreTech.
+# 🚀 CreTech Java Internship Projects
 
-🚀 Overview
-This repository showcases my journey as a Java Intern at CreTech. It includes hands-on projects, code samples, and learning notes developed during my internship. Each project demonstrates core Java concepts, object-oriented programming, and real-world problem-solving.
+Welcome to my Java Internship portfolio repository!  
+This repo documents the hands-on projects, source code, and learning progress during my internship at **CreTech**.
 
-📚 Table of Contents
-About
+---
 
-Projects
+## 📌 Overview
 
-Getting Started
+Throughout the internship, I built several Java-based applications focusing on core programming concepts, clean architecture, and real-world functionality.  
+Each project demonstrates:
+- Object-Oriented Programming (OOP)
+- Java I/O and exception handling
+- Modular code structure
+- Problem-solving using Java
 
-Learning Outcomes
+---
 
-Next Steps
+## 📁 Projects
 
-Contributing
+| 🧠 Project Name               | 📄 Description                                                   | 🚦 Status       |
+|------------------------------|------------------------------------------------------------------|-----------------|
+| **Simple Banking System**    | Manage accounts, transfers, and transaction history              | ✅ Completed     |
+| **Student Management System**| CRUD operations on student records using Java and file handling  | ⚙️ In Progress   |
+| **Library Management System**| Track books, members, and borrowing operations                   | ⚙️ In Progress   |
+| **Inventory Management System**| Product tracking, stock updates, and basic reporting            | ⚙️ In Progress   |
 
-License
+---
 
-📝 About
-As a Java Intern at CreTech, I am building foundational and advanced Java projects to strengthen my software development skills. Each project is documented with code, usage instructions, and key learnings.
+## 🧠 Key Learnings
 
-💻 Projects
-🏷️ Project Name	📝 Description	🚦 Status
-Simple Banking System	Console-based app for basic banking operations	✅ Complete
-Student Management System	Manage student records: add, update, delete, and search	🚧 Ongoing
-Library Management System	Manage books, members, and borrowing/return operations	🚧 Ongoing
-Inventory Management System	Track products, stock levels, and sales in a simple inventory	🚧 Ongoing
-⚡ Getting Started
-bash
+- Mastered core Java fundamentals and syntax
+- Applied Object-Oriented Design principles in real use cases
+- Implemented data persistence using file handling
+- Improved debugging and logical thinking
+- Practiced clean coding and project organization
+- Learned to use Git and GitHub for version control
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Java 17+
+- IntelliJ IDEA / Eclipse
+- Git & GitHub
+- File I/O (BufferedReader, BufferedWriter)
+- Command Line Interface (CLI)
+
+---
+
+## ▶️ Getting Started
+
+To run any project locally:
+
+```bash
 # 1. Clone the repository
 git clone https://github.com/SATYA-916/CreTech.git
 
-# 2. Navigate to the project folder
-cd CreTech
+# 2. Navigate to the project directory
+cd CreTech/ProjectFolder
 
-# 3. Compile and run Java files
-javac ProjectName.java
-java ProjectName
-🎯 Learning Outcomes
-Applied object-oriented programming principles in Java
+# 3. Compile the Java file
+javac FileName.java
 
-Developed real-world console applications
-
-Practiced code documentation and version control with GitHub
-
-Improved debugging and problem-solving skills
-
-🚧 Next Steps
- Add support for multiple user accounts in projects
-
- Implement data persistence with file or database storage
-
- Enhance error handling and input validation
-
- Build a GUI for selected projects
-
-🤝 Contributing
-Contributions, suggestions, and feedback are welcome!
-Please open an issue or submit a pull request.
-
-📄 License
-This repository is licensed under the MIT License.
-
-Developed during my Java Internship at CreTech
-
-"Learning by building. Growing by sharing."
-
-Tips for further improvement:
-
-Add project badges (build status, license, etc.) for extra polish.
-
-Include screenshots or UML diagrams for each project to visually illustrate features or architecture.
-
-Link each project name to its own subfolder or detailed README as you expand.
+# 4. Run the program
+java FileName
